@@ -1,0 +1,1 @@
+	DEFC	UART_BASE = $0000
